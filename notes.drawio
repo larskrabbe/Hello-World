@@ -1,0 +1,106 @@
+<mxfile host="65bd71144e">
+    <diagram id="pR0KpO71kwH0cO72xLUz" name="Page-1">
+        <mxGraphModel dx="1596" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="110" width="140" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Python 3.0" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="30" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="javascript" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="60" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="C++" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="90" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Node.js" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="120" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="HASKELL" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="150" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Chicken" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="180" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Pascal&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="210" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Brainfuck" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="240" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Piet" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+                    <mxGeometry y="270" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;pre&gt;    print(&quot;Hello World&quot;)&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="-110" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="12" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="280" y="160" as="sourcePoint"/>
+                        <mxPoint x="330" y="110" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="12" target="15" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="540" y="150" as="sourcePoint"/>
+                        <mxPoint x="590" y="100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="&lt;font color=&quot;#000000&quot;&gt;Can also be&amp;nbsp;&lt;br&gt;Lily&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="-110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=http://helloworldcollection.de/hellopics/piet.png;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="790" width="177" height="176" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;pre&gt;   console.log(&quot;Hello World&quot;);&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="-30" width="230" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="4" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;pre&gt;#include &amp;lt;iostream.h&amp;gt;&#10;&#10;main()&#10;{&#10;    cout &amp;lt;&amp;lt; &quot;Hello World!&quot; &amp;lt;&amp;lt; endl;&#10;    return 0;&#10;}&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="40" width="290" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="5" target="23" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;pre&gt;var sys = require('sys');&#10;sys.puts('Hello World');&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="220" width="210" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="1" source="7" target="25" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="&lt;pre&gt;main = putStrLn &quot;Hello World&quot;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="310" width="240" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;pre&gt;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken&#10;chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken&#10;&#10;chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken&#10;&#10;chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken&#10;chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken&#10;&#10;chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken&#10;&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken&#10;&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken&#10;chicken chicken chicken chicken chicken chicken&#10;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="840" y="-110" width="2250" height="900" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;pre&gt;program HelloWorld(output);&#10;begin&#10;  WriteLn('Hello World!');&#10;end.&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="420" width="230" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="10" target="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;pre&gt;++++++++++[&amp;gt;+++++++&amp;gt;++++++++++&amp;gt;+++&amp;lt;&amp;lt;&amp;lt;-]&amp;gt;++.&amp;gt;+.+++++++&#10;..+++.&amp;gt;++.&amp;lt;&amp;lt;+++++++++++++++.&amp;gt;.+++.------.--------.&amp;gt;+.&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="590" width="420" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="11" target="33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
